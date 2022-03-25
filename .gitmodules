@@ -2,5 +2,8 @@
 	path = start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "vim-gitgutter"]
-	path = vim-gitgutter
+	path = start/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "start/vim-go"]
+	path = start/vim-go
+	url = https://github.com/fatih/vim-go.git
